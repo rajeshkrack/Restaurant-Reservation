@@ -991,6 +991,12 @@ footer .container .banner .right {
   border-radius: 100%;
   color: #fff;
 }
+
+.Submit-button{
+  cursor: pointer;
+}
+
+
 @media (max-width: 1520px) {
   .reservation .container {
     min-width: 100%;
