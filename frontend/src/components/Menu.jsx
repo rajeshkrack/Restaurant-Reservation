@@ -7,7 +7,7 @@ const Menu = () => {
         <div className="container">
             <div className="heading_section">
                 <h1 className="heading">POPULAR DISHES</h1>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga, iusto dolorem! Voluptatibus ipsum nam mollitia architecto. Soluta pariatur eius et recusandae veritatis. Quasi, et molestias!</p>
+                <p>Delicious food is a universal language that brings people together, transcending cultural and geographical boundaries. The allure of a perfectly cooked meal lies not only in its taste but also in its aroma, texture, and presentation. From the rich, creamy indulgence of a classic Italian pasta to the spicy, vibrant flavors of Indian curry, each dish tells a story of its origin and the hands that crafted it. </p>
             </div>
             <div className="dishes_container">
                 {
